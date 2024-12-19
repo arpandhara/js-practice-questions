@@ -9,4 +9,4 @@ const ascendingorder = (arr) => {
     }
         return true;
 }
-console.log(ascendingorder([1,2,3]));
+console.log(ascendingorder([1,2,3,9,4]));
